@@ -1,5 +1,4 @@
 # Cat Clicker
-
 'Cat Clicker' is a single page web application that display a list of cats &amp; a selected cat with a click counter using JavaScript DOM Objects.
  
 ## Project Requirements
